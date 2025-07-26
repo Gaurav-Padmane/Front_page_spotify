@@ -35,3 +35,13 @@ CSS3
 Font Awesome (for icons)
 
 Google Fonts (Montserrat)
+
+🚧 Limitations
+❌ No JavaScript functionality (yet!)
+
+❌ Songs and player controls are not functional, UI only
+
+
+👨‍💻 Author
+Gaurav Padmane
+HTML + CSS Developer | Web Development Enthusiast
